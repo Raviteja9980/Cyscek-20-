@@ -1,24 +1,24 @@
 # 🛡️ Cybersecurity Course — Day 09
 
-## 🎯 Topics Covered
+Topics Covered
 - Vulnerability Assessment
 - Penetration Testing
 - WAF
 - GDPR
 - VA Tools
 
-## 📘 Overview
+Overview
 Explored structured approaches to identifying and exploiting vulnerabilities.
 
-## 🔑 Key Concepts
+Key Concepts
 **VA vs PT:** VA finds weaknesses; PT tests their impact.  
 **WAF:** Protects web apps from attacks.  
 **Threat Modeling:** Anticipates attacker strategies.
 
-## ✅ Key Takeaways
+Key Takeaways
 - Methodologies ensure effective testing.
 - Compliance supports data protection.
 - Reporting is critical after assessments.
 
-## 📌 Summary
+Summary
 Delivered insight into professional security testing workflows.

@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Course — Day 07
 
-## 🎯 Topics Covered
+Topics Covered
 - Malware Analysis
 - Wireshark & CyberChef
 - Static/Dynamic Analysis
@@ -8,18 +8,18 @@
 - IAM
 - SIEM & EDR
 
-## 📘 Overview
+Overview
 Focused on malware investigation techniques and modern security operations.
 
-## 🔑 Key Concepts
+Key Concepts
 **Static vs Dynamic:** Analyze files without execution vs real-time behavior.  
 **SOC:** L1 monitors, L2 investigates, L3 handles advanced threats.  
 **IAM:** Ensures proper access control.
 
-## ✅ Key Takeaways
+Key Takeaways
 - Monitoring is vital for threat detection.
 - SOC structure improves response.
 - Access control reduces risk.
 
-## 📌 Summary
+Summary
 Expanded skills toward operational cybersecurity roles.
